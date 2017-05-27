@@ -11,19 +11,19 @@ var butt3 = document.querySelector("#butt3");
 var butt4 = document.querySelector("#butt4");
 
 choice1.addEventListener("click", function(){
-	butt1.style.border="1px solid red";
+	butt1.style.border="7px solid red";
 })
 
 choice2.addEventListener("click", function(){
-	butt2.style.border="1px solid red";
+	butt2.style.border="7px solid red";
 })
 
 choice3.addEventListener("click", function(){
-	butt3.style.border="1px solid green";
+	butt3.style.border="7px solid green";
 })
 
 choice4.addEventListener("click", function(){
-	butt4.style.border="1px solid red";
+	butt4.style.border="7px solid red";
 })
 
 next.addEventListener("click", function(){
