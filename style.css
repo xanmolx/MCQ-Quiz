@@ -66,3 +66,27 @@ footer{
 #butt1:focus, #butt2:focus, #butt3:focus, #butt4:focus{
 	outline: 0;
 }
+
+#next
+{
+	background-color: black;
+	width:250px;
+	font-size: 40px;
+	color: white;
+	border: 1px solid white;
+	border-radius: 50px;
+	margin:10px 40px 10px 0;
+	font-family: 'Josefin Slab', serif;
+	padding: 5px;
+}
+
+#next:hover
+{
+	cursor:pointer;
+	background-color: white;
+	color: black;
+}
+
+#next:focus{
+	outline: 0;
+}
